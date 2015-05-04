@@ -1,4 +1,4 @@
-settings.php
+/content/sites/default/settings.php
 
 # ignore Mac OS X Finder metadata
 .DS_Store
