@@ -213,14 +213,14 @@
  * @endcode
  */
 $databases = array (
-  'default' => 
+  'default' =>
   array (
-    'default' => 
+    'default' =>
     array (
       'database' => 'drupal',
       'username' => 'drupal',
       'password' => 'Bootcamp372948',
-      'host' => 'dr1a8xtdpq2uc5d.cv0m3zjtftvv.us-east-1.rds.amazonaws.com',
+      'host' => 'drof56fvxxs9b1.cv0m3zjtftvv.us-east-1.rds.amazonaws.com',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
