@@ -43,6 +43,10 @@ hooks:
     - location: scripts/register_with_elb.sh
       timeout: 120
 
+    - location: scripts/install_new_relic.sh
+      timeout: 180
+      runas: root
+
   #
   # ValidateService - ValidateService is the last deployment lifecycle
   # event and is an opportunity to verify that the deployment
